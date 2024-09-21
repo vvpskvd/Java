@@ -7,7 +7,6 @@ public class dibujoTriangulo
     StringBuilder xx = new StringBuilder();
     var resultado = "";
 
-
     System.out.print("¿De cuantas filas desea el triangulo? : ");
     var totalFilas = Integer.parseInt(x.nextLine());
 
